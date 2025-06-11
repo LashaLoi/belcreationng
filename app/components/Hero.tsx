@@ -27,8 +27,8 @@ export const Hero = () => (
         animate={{ opacity: 1, scale: 1 }}
       >
         <Image
-          className="sm:mt-0 mt-[100px]"
-          src="/camping.gif"
+          className="rounded-xl"
+          src="/newlogo.PNG"
           alt="Camping"
           height={800}
           width={800}
